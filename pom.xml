@@ -240,7 +240,7 @@
                 spring-boot-starter-security
             </artifactId>
             <version>
-                4.1.2
+                4.2.0
             </version>
         </dependency>
     </dependencies>
