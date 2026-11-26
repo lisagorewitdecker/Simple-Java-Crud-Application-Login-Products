@@ -47,7 +47,7 @@
         <logback.version>
             1.6.5
         </logback.version>
-        <spring-modulith.version>2.1.2</spring-modulith.version>
+        <spring-modulith.version>2.2.0</spring-modulith.version>
     </properties>
     <dependencyManagement>
         <dependencies>
